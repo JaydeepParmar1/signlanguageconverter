@@ -35,4 +35,3 @@ It can be used as both a **learning tool** and a **communication aid** for deaf 
 
 ---
 
-## 📂 Dataset Structure
